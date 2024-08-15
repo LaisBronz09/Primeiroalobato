@@ -1,4 +1,29 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
 
 body{
-  background;:linear-gradient(to right, #e412e4, #43b9e7, #37f05f, #1dca9f)
+  background: linear-gradient(to right, #ff0000, #cd06ff, #093eec94, #00ec14);
+}
+h1{
+ font-size: 70px;
+ text-align: center;
+ color:aliceblue (25, 0, 255, 0)
+}
+
+
+
+p{
+  font-size: 30px;
+  color: rgb(218, 224, 224);
+}
+.cabecalho{
+  background-color: aliceblue;
+  padding: 30px;
+}
+h2{
+text-align: center;
+font-size: 40px;
+color: black;
 }
